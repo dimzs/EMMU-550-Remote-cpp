@@ -1,0 +1,1 @@
+"./AppProtocol.obj" "./Stc3105.obj" "./cc1101.obj" "./flash.obj" "./i2c.obj" "./interrupts.obj" "./main.obj" "./spi.obj" "../lnk_msp430f2272.cmd" -l"libc.a" 
